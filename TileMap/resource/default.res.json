@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,road_jpg,idle_png,walk01_png,walk02_png,walk03_png,noRoad_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "road_jpg",
+			"type": "image",
+			"url": "assets/road.jpg"
+		},
+		{
+			"name": "idle_png",
+			"type": "image",
+			"url": "idle.png"
+		},
+		{
+			"name": "walk01_png",
+			"type": "image",
+			"url": "walk01.png"
+		},
+		{
+			"name": "walk02_png",
+			"type": "image",
+			"url": "walk02.png"
+		},
+		{
+			"name": "walk03_png",
+			"type": "image",
+			"url": "walk03.png"
+		},
+		{
+			"name": "noRoad_png",
+			"type": "image",
+			"url": "assets/noRoad.png"
+		}
+	]
+}
